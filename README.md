@@ -6,7 +6,7 @@
   <small><em>Antigua bandera del Condado de King y ubicación dentro del estado de Washington.</em></small>
 </p>
 
-## Sobre el proyecto.
+## 🦅Sobre el proyecto. 🦅
 
 Este proyecto se enmarca dentro del Bootcamp de Análisis de Datos impartido por la escuela IRONHACK. En esta ocasión, el Dataframe nos hablará sobre el mercado inmobiliario en el condado de King en EEUU  entre mediados del 2014 y 2015 y las características de las viviendas que fueron vendida.
 
@@ -20,7 +20,7 @@ Aunque se vio afectada por la Gran Recesión, Seattle ha conservado una economí
 
 
 
-## Desarrollo del proyecto.
+## 📊 Desarrollo del proyecto. 📊
 <ol>
   <li>Presentación de los objetivos:</li>
   <ol>
@@ -55,7 +55,7 @@ Aunque se vio afectada por la Gran Recesión, Seattle ha conservado una economí
   ![image](https://github.com/Vicgutgam/King-Real-Estate/assets/155966045/0c4dd2de-7d6c-452f-93d4-d0b2cb1434fa)
 
 
-## Herramientas:
+## 🧰 Herramientas: 🧰
 **Soporte técnico**
 * **JupyterLab**
 
@@ -67,7 +67,7 @@ Aunque se vio afectada por la Gran Recesión, Seattle ha conservado una economí
 * **Seaborn**: Runs on top of matplotlib, HD data visualization.
 * **Sklearn**: para procesos de Machine Learning
 
-## Bibliografía:
+## 🎓 Bibliografía: 🎓
 <ul>
   <li> Seattle: https://es.wikipedia.org/wiki/Seattle</li>
   <li> Condado de King: https://es.wikipedia.org/wiki/Condado_de_King_(Washington)</li>

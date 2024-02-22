@@ -36,7 +36,8 @@ Aunque se vio afectada por la Gran Recesión, Seattle ha conservado una economí
       <li>Creación de modelos de MACHINE LEARNING: se aplicaron los modelos de Regresión Lineal, Ridge, Lasso, Knn, XGBoots y Decision Tree.</li>
     </ol>
     
-  ![image](https://github.com/Vicgutgam/King-Real-Estate/assets/155966045/8b738627-2ff2-4fa2-93c6-54475a5e2246)
+  ![image](https://github.com/Vicgutgam/King-Real-Estate/assets/155966045/72a7d48a-bd9b-47a7-8e32-893d35eb6eb0)
+
 
   </li>
   <li>Conclusiones:</li>

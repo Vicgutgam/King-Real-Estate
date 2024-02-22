@@ -6,11 +6,11 @@
   <small><em>Antigua bandera del Condado de King y ubicación dentro del estado de Washington.</em></small>
 </p>
 
-## 🦅Sobre el proyecto. 🦅
+## ⏰Sobre el proyecto. ⏰
 
 Este proyecto se enmarca dentro del Bootcamp de Análisis de Datos impartido por la escuela IRONHACK. En esta ocasión, el Dataframe nos hablará sobre el mercado inmobiliario en el condado de King en EEUU  entre mediados del 2014 y 2015 y las características de las viviendas que fueron vendida.
 
-## Sobre el Condado de King-Seattle y el sector inmobiliario.
+## 🦅 Sobre el Condado de King-Seattle y el sector inmobiliario. 🦅
 
 Es interesante saber que el condado de King se encuentra en el estado estadounidense de Washington, es decir la costa Oeste. Su población según el censo del año 2020 era de 2,269,675 y curiosamente se ha visto un leve descenso de la población. Por población el condado de King es el mayor del estado de Washington, y hace el número 14 de los más poblados de todos los Estados Unidos. Es uno de los más avanzados condados en el ámbito educativo de toda la nación y aproximadamente la mitad de su población posee un título universitario.
 

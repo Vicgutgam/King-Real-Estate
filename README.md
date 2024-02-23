@@ -1,4 +1,4 @@
- <center> <h1 style="color:#d48a13">🏡  El sector inmobiliarion en el condado de King  🏡 </h1> </center>
+ <center> <h1 style="color:#d48a13">🏡  El sector inmobiliario en el condado de King  🏡 </h1> </center>
 
 <p align="center">
   <img src="https://github.com/Vicgutgam/King-Real-Estate/blob/main/Im%C3%A1genes/Condado%20de%20King.png" width="75%">
